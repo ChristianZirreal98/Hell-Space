@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7a6105c90b973c4794fbab576b5d49d, type: 3}
+  m_Name: four_dialogue
+  m_EditorClassIdentifier: 
+  texts_dialogue:
+  - Before we're done, soldier, recharge your battery, it's what keeps you alive
+    and flashlight energy, search the rooms for chargers on the walls.
